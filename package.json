@@ -1,6 +1,6 @@
 {
   "name": "generator-karma",
-  "version": "0.4.1",
+  "version": "0.4.1b",
   "description": "Yeoman generator for Karma",
   "keywords": [
     "yeoman-generator",
